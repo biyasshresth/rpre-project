@@ -80,6 +80,7 @@ export const services: Readonly<Service[]> = [
     icon: Smartphone,
     image:
       "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800",
+      link:"/mobile-app"
   },
   {
     id: 3,
